@@ -40,7 +40,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Experiencia en NOC en sector público
 - Criterio económico: 49%, criterio técnico: 51%
 
-**Enlace:** [BOE-B-2026-25768](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25768)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 2026/00000063](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-25768
 
 ---
 
@@ -67,7 +68,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Explotación y operación continuada
 - Datos financieros regulados → requiere cumplimiento ENS
 
-**Enlace:** [BOE-B-2026-24954](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-24954)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 23/26 (CNMV)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-24954
 
 ---
 
@@ -94,7 +96,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Criterio técnico: 40% (4 subcriterios)
 - Criterio económico: 60%
 
-**Enlace:** [BOE-B-2026-26049](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-26049)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 009/26-SG (RED.ES)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-26049
 
 ---
 
@@ -121,7 +124,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Certificación ENS para datos tributarios sensibles
 - Criterio juicio de valor: 48%, fórmulas: 22%, precio: 30%
 
-**Enlace:** [BOE-B-2026-25296](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25296)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 26840045700 (AEAT)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-25296
 
 ---
 
@@ -147,7 +151,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Dominio técnico en amenazas CBRN/NRBQ
 - Habilitación de seguridad para contratación con Defensa probable
 
-**Enlace:** [BOE-B-2026-26959](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-26959)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 2026/SP03032007/00000893 (Defensa)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-26959
 
 ---
 
@@ -174,7 +179,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Criterio técnico: 9 subcriterios (3–13% cada uno)
 - Criterio económico: 50%
 
-**Enlace:** [BOE-B-2026-27003](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27003)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 008/26-RI (RED.ES)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-27003
 
 ---
 
@@ -200,7 +206,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Evolución funcional de sistemas de gestión
 - Solvencia económica: cifra de negocio anual ≥ €2.989.536
 
-**Enlace:** [BOE-B-2026-27472](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27472)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 298/2026 (OEITSS)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-27472
 
 ---
 
@@ -226,7 +233,8 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 - Conocimiento funcional de LARES/SIGESPI
 - Duración: 36 meses
 
-**Enlace:** [BOE-B-2026-27412](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27412)
+**Enlace PCSP:** [Plataforma de Contratación del Sector Público — buscar exp. 00000026P035 (Min. Interior)](https://contrataciondelestado.es/wps/portal/plataforma)  
+**Ref. BOE:** BOE-B-2026-27412
 
 ---
 
@@ -282,6 +290,7 @@ Las oportunidades más urgentes con plazo **31 de agosto de 2026** (7 días) son
 ## Notas Metodológicas
 
 - Fuentes consultadas: BOE (Boletín Oficial del Estado), búsquedas en Plataforma de Contratación del Estado, portales especializados (licitapyme.com, tendios.com, contratos.gobierto.es)
+- **Enlaces:** los enlaces "Enlace PCSP" apuntan a la **Plataforma de Contratación del Sector Público** (contrataciondelestado.es), que es donde se descarga el pliego completo y se presentan las ofertas. Todas las licitaciones de este informe son de organismos estatales; en caso de licitaciones autonómicas o locales, el enlace apuntaría a la plataforma regional correspondiente (p. ej. Plataforma de Contratación de la Comunidad de Madrid, Contratació Pública Generalitat de Catalunya, etc.). La referencia BOE se mantiene como identificador de publicación oficial.
 - Fechas de plazo marcadas como "Por det." indican que la fecha exacta de cierre de ofertas debe confirmarse en el pliego descargado de contrataciondelestado.es
 - Los presupuestos marcados como "Por det." deben consultarse en el expediente completo de la PCSP
 - Se excluyen contratos ya formalizados (adjudicados): BOE-B-2026-24290 (Guardia Civil ciberinteligencia, ya formalizado)
