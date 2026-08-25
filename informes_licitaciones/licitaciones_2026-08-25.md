@@ -30,10 +30,10 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **Presupuesto base** | ~488.392 € (valor estimado contrato 24 meses) |
 | **Plazo límite** | **31 de agosto de 2026 a las 09:30 h** |
 | **Días restantes** | ⚠️ **6 días** |
-| **CPV** | 72220000 (Servicios de consultoría en sistemas y tecnología), 72250000 (Mantenimiento y asistencia de sistemas), 72530000 (Servicios de redes informáticas) |
+| **CPV** | 72514000 (Gestión de instalaciones informáticas), 72514100 (Gestión de instalaciones informáticas de explotación) |
 | **Relevancia** | **9/10** |
 | **Estado** | 🟢 **GO** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25768 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=yzPF4XtkVvuIzo3LHNPGcQ%3D%3D |
 
 **Descripción:** Contrato de 24 meses para la prestación de servicios de Centro de Operaciones de Ciberseguridad (SOC) 24x7 y Centro de Operaciones de Red (NOC) 24x7 para la Agencia Espacial Española. Incluye adhesión a la Red Nacional de SOC del CNN-CERT en categoría oro y supervisión continua de activos tecnológicos de la AEE.
 
@@ -59,7 +59,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **CPV** | 72200000 (Servicios de programación y consultoría de software), 72316000 (Servicios de análisis de datos), 72212000 (Programación de software de aplicaciones), 48612000 (Sistemas de gestión de bases de datos) |
 | **Relevancia** | **9/10** |
 | **Estado** | 🟢 **GO** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-24954 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QkDiL+UwAQqGCFcHcNGIlQ== |
 
 **Descripción:** Diseño, despliegue y explotación de una plataforma de datos y analítica avanzada para la CNMV, con foco en soluciones Microsoft Fabric. Incluye criterios de evaluación sobre experiencia en proyectos de desarrollo de software con Microsoft Fabric en los últimos 2 años. Apertura de oferta técnica: 11 de septiembre de 2026 a las 12:15 h.
 
@@ -82,10 +82,10 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **Presupuesto base** | N/D (por confirmar en pliego) |
 | **Plazo límite** | **7 de septiembre de 2026 a las 15:00 h** |
 | **Días restantes** | 13 días |
-| **CPV** | 72250000 (Servicios de mantenimiento y asistencia de sistemas), 72220000 (Consultoría en sistemas y tecnología), 72317000 (Servicios de almacenamiento de datos) |
+| **CPV** | 72315200 (Servicios de gestión de redes de datos), 72250000 (Servicios de mantenimiento y asistencia de sistemas), 79417000 (Servicios de consultoría en materia de seguridad) |
 | **Relevancia** | **7/10** |
 | **Estado** | 🟢 **GO** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25296 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=QOR8fNIpJGKsNfRW6APEDw== |
 
 **Descripción:** Contrato de 2 años (desde 1 de noviembre de 2026) para servicios de soporte informático y seguridad de la información de la infraestructura servidora y puesto de trabajo del Departamento de Informática Tributaria de la AEAT. Apertura de propuestas técnicas: 9 de septiembre de 2026 a las 13:00 h.
 
@@ -105,13 +105,13 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 |-------|---------|
 | **Expediente** | 00000026P035 |
 | **Organismo** | Subdirección General de Gestión Económica y Patrimonial — Ministerio del Interior |
-| **Presupuesto base** | N/D (por confirmar en pliego) |
+| **Presupuesto base** | 1.003.680,59 € |
 | **Plazo límite** | **21 de septiembre de 2026 a las 18:00 h** |
 | **Días restantes** | 27 días |
 | **CPV** | 72400000 (Servicios de Internet), 72200000 (Programación y consultoría de software), 72600000 (Servicios de apoyo y consultoría informáticos) |
 | **Relevancia** | **7/10** |
 | **Estado** | 🟢 **GO** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27412 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=UnEbuoUFpozVGIpKDxgsAQ== |
 
 **Descripción:** Servicio de Centro de Atención a Usuarios de las aplicaciones de transformación digital (CAUTD) y de los sistemas LARES/SIGESPI de Protección Internacional del Ministerio del Interior. Apertura administrativa: 24 de septiembre 2026 a las 09:30; apertura económica: 1 de octubre 2026 a las 09:30.
 
@@ -136,7 +136,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **CPV** | 48900000 (Paquetes de software y sistemas informáticos varios), 72250000 (Mantenimiento y asistencia de sistemas) |
 | **Relevancia** | **3/10** |
 | **Estado** | 🟡 **WATCH** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-26959 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=IDuf9tmH0VBWhbmkna2nXQ== |
 
 **Descripción:** Actualización y soporte técnico de suscripciones de software especializado en análisis y predicción de amenazas NRBQ (Nuclear, Radiológica, Biológica, Química) para el Ministerio de Defensa, periodo 2026-2029. Apertura sobre económica: 16 de septiembre de 2026 a las 11:00 h.
 
@@ -160,7 +160,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **CPV** | 72250000 (Mantenimiento y asistencia de sistemas), 72200000 (Programación y consultoría de software) |
 | **Relevancia** | **6/10** |
 | **Estado** | 🟠 **REVIEW** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27472 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=M32/2aiYgN0zjChw4z/Xvw== |
 
 **Descripción:** Contrato de servicio de soporte, mantenimiento y evolución de los sistemas informáticos de gestión del Organismo Estatal de Inspección de Trabajo y Seguridad Social. Apertura técnica: 24 de septiembre; apertura económica: 1 de octubre de 2026.
 
@@ -185,7 +185,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **CPV** | 72250000 (Mantenimiento y asistencia de sistemas), 72600000 (Servicios de apoyo y consultoría informáticos) |
 | **Relevancia** | **5/10** |
 | **Estado** | 🟠 **REVIEW** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-27427 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=1yQuM3BBhT3mnwcj+xbdTg== |
 
 **Descripción:** Servicios de apoyo y asistencia técnica de carácter informático a las Unidades Provinciales de Informática de la Gerencia Informática de la Seguridad Social. Contrato de 12 meses. Publicado el 20 de agosto de 2026.
 
@@ -210,7 +210,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **CPV** | 72317000 (Servicios de almacenamiento de datos), 72250000 (Mantenimiento y asistencia de sistemas), 72315000 (Servicios de gestión de redes de datos) |
 | **Relevancia** | **5/10** |
 | **Estado** | 🟠 **REVIEW** |
-| **Enlace** | https://www.boe.es/diario_boe/txt.php?id=BOE-B-2026-25770 |
+| **Enlace** | https://contrataciondelestado.es/wps/poc?uri=deeplink:perfilContratante&idBp=XLXk9EyEnmY= (perfil CSIC — buscar exp. 35410/27) |
 
 **Descripción:** Servicio de seguimiento, gestión y administración de las bases de datos y servidores de aplicaciones de la Secretaría General Adjunta de Informática del CSIC. Contrato de 12 meses (vigencia desde 1 enero 2027). Apertura económica provisional: 29 de septiembre de 2026 a las 11:00 h.
 
@@ -230,7 +230,7 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | 1 | 2026/00000063 | Agencia Espacial Española | ~488.392 € | 31/08/2026 | ⚠️ 6 | 9/10 | 🟢 GO |
 | 2 | 23/26 | CNMV | N/D | 07/09/2026 | 13 | 9/10 | 🟢 GO |
 | 3 | 26840045700 | AEAT | N/D | 07/09/2026 | 13 | 7/10 | 🟢 GO |
-| 4 | 00000026P035 | Ministerio Interior | N/D | 21/09/2026 | 27 | 7/10 | 🟢 GO |
+| 4 | 00000026P035 | Ministerio Interior | 1.003.680,59 € | 21/09/2026 | 27 | 7/10 | 🟢 GO |
 | 5 | 298/2026 | Inspección Trabajo SS | N/D | 14/09/2026 | 20 | 6/10 | 🟠 REVIEW |
 | 6 | 2026/7006 | Gerencia Informática SS | 6.627.868,80 € | 01/09/2026 | ⚠️ 7 | 5/10 | 🟠 REVIEW |
 | 7 | 35410/27 | CSIC | N/D | 21/09/2026 | 27 | 5/10 | 🟠 REVIEW |
@@ -246,8 +246,8 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 | **Estado GO (≥7)** | 4 |
 | **Estado REVIEW (5-6)** | 3 |
 | **Estado WATCH (<5)** | 1 |
-| **Presupuesto total conocido** | 8.042.277,37 € |
-| **Presupuesto GO (conocido)** | ~488.392 € (AEE SOC/NOC) |
+| **Presupuesto total conocido** | 9.045.958 € |
+| **Presupuesto GO (conocido)** | ~1.492.073 € (AEE SOC/NOC + Interior CAUTD) |
 | **Próximo vencimiento** | ⚠️ **31 agosto 2026 — AEE SOC/NOC (6 días)** |
 | **Segundo vencimiento** | ⚠️ **1 septiembre 2026 — Gerencia SS (7 días)** |
 
@@ -268,7 +268,9 @@ Búsqueda sistemática en BOE (Boletín Oficial del Estado) y contrataciondelest
 
 ## Fuentes Consultadas
 
-- BOE (Boletín Oficial del Estado): https://www.boe.es
-- Plataforma de Contratación del Sector Público: https://contrataciondelestado.es
+- Plataforma de Contratación del Sector Público (PCSP): https://contrataciondelestado.es
+- BOE (Boletín Oficial del Estado, referencia): https://www.boe.es
 - TED (Tenders Electronic Daily — UE): https://ted.europa.eu
 - The Objective — Agencia Espacial Española SOC 24x7: https://theobjective.com/tecnologia/2026-08-13/agencia-espacial-espanola-24-horas-vigilancia-sistemas/
+
+> **Nota:** Los enlaces de licitación apuntan directamente a la ficha en la Plataforma de Contratación del Sector Público (PCSP). Para el expediente CSIC 35410/27, el deeplink no estaba indexado en el momento de la generación del informe; se indica el perfil del contratante del CSIC en PCSP como acceso alternativo.
