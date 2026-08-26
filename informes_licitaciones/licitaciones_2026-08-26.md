@@ -165,6 +165,34 @@ Duración prevista: 24 meses. Inversión total: ~5,45 millones de euros. El proy
 
 ---
 
+### LICITACIÓN 5B — **REVIEW** (añadida manualmente)
+
+| Campo | Detalle |
+|---|---|
+| **Título** | Servicio para la digitalización de procesos de ENAIRE-HERON 4 |
+| **Nº Expediente** | DNA 260/2026 |
+| **Organismo contratante** | ENAIRE |
+| **Unidad compradora** | Dirección Económico-Financiera de ENAIRE |
+| **Presupuesto base** | 1.495.000,00 € (sin impuestos) |
+| **Valor estimado** | 5.980.000,00 € (incluye posibles prórrogas) |
+| **Plazo límite** | Pendiente de verificar en la ficha de PCSP |
+| **Plataforma** | PCSP (contrataciondelestado.es) |
+| **URL directa** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=TuvxUdFuxbISYrkJkLIFdw%3D%3D |
+| **Códigos CPV** | Pendiente de verificar en la ficha de PCSP |
+| **Estado licitación (PCSP)** | Publicada — sin financiación de fondos UE |
+| **Registrado en SmartBid** | Sí — id `b0972fed-902d-41ec-ac47-270051b17cbb` (estado: identificada) |
+| **Estado** | **REVIEW** |
+
+**Descripción:** Contrato de servicios para la digitalización de procesos de ENAIRE, dentro del proyecto HERON 4. Localizada manualmente vía captura de pantalla de PCSP aportada por el usuario, ya que los dominios de PCSP/BOE/Enaire están bloqueados por la política de red de este entorno de ejecución.
+
+**Encaje con FutureSpace:** A evaluar — digitalización de procesos puede encajar con las capacidades de automatización inteligente, desarrollo a medida e IoT/cloud de FutureSpace. Pendiente de revisar el pliego para valorar el encaje real.
+
+**Requisitos clave:**
+- Verificar plazo de presentación, criterios de adjudicación y CPV en la ficha completa de PCSP
+- Confirmar si requiere experiencia previa con ENAIRE o en proyectos HERON
+
+---
+
 ### LICITACIÓN 6 — **REVIEW**
 
 | Campo | Detalle |
@@ -244,11 +272,11 @@ Duración prevista: 24 meses. Inversión total: ~5,45 millones de euros. El proy
 
 | Métrica | Valor |
 |---|---|
-| **Total licitaciones activas encontradas** | 8 |
+| **Total licitaciones activas encontradas** | 9 |
 | **GO (relevancia ≥ 7)** | 5 |
-| **REVIEW (relevancia 5-6)** | 2 |
+| **REVIEW (relevancia 5-6)** | 3 |
 | **WATCH (relevancia < 5)** | 1 |
-| **Presupuesto total estimado (licitaciones con datos)** | ~21.293.913 € |
+| **Presupuesto total estimado (licitaciones con datos)** | ~27.273.913 € |
 | **Próximo plazo** | 1 septiembre 2026 (Licit. 8 — WATCH) |
 | **Plazo más relevante (GO)** | 7 septiembre 2026 (CNMV) |
 
