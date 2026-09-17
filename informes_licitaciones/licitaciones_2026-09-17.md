@@ -109,33 +109,32 @@
 
 ---
 
-### LICITACIÓN 4 — **WATCH** 👀
+### LICITACIÓN 4 — **NO-GO** ❌
 
 | Campo | Detalle |
 |---|---|
-| **Título** | Asistencia Técnica al Centro de Análisis y Explotación (CAE) del CESTIC |
+| **Título** | Asistencia Técnica para la Coordinación de Actividades Empresariales (CAE) en instalaciones del CESTIC |
 | **Nº Expediente** | 2026/SP03032003/00000773E |
-| **Organismo contratante** | Ministerio de Defensa — Subdirección General de Sistemas y Tecnologías de la Información y Comunicaciones (SGCONTIC) |
-| **Unidad compradora** | CESTIC — Centro de Análisis y Explotación (CAE) |
-| **Presupuesto base** | Pendiente de verificación en PCSP |
-| **Valor estimado** | Pendiente de verificación |
-| **Plazo límite** | **7 de octubre de 2026** (23:59 h) |
+| **Organismo contratante** | Ministerio de Defensa — Subdirección General de Contratación TIC (SGCONTIC) |
+| **Unidad compradora** | CESTIC — Calle Arturo Soria 289, 28033 Madrid |
+| **Presupuesto base** | ~142.885 € / año sin IVA (estimación; valor estimado total 36 meses: **428.656,38 €**) |
+| **Valor estimado** | **428.656,38 € sin IVA** (12 meses + opción prórroga 24 meses) |
+| **Plazo límite** | **7 de octubre de 2026** (23:59 h) — Apertura sobre económico: 16/10/2026 |
 | **Días restantes** | **20 días** |
-| **Plataforma** | PCSP (contrataciondelestado.es) |
-| **URL directa** | URL pendiente de verificación en PCSP — Expediente 2026/SP03032003/00000773E. Buscar en: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XXXX (idEvl no disponible por restricción de acceso al portal) |
-| **Códigos CPV** | 72220000 (Consultoría de sistemas y software), 72000000 (Servicios TI) |
-| **Puntuación relevancia** | **4/10** |
-| **Estado** | **WATCH** |
+| **Plataforma** | PCSP (contrataciondelestado.es) — BOE-B-2026-29891 |
+| **URL directa** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=uAIUB6BCuj8zjChw4z/Xvw== |
+| **Códigos CPV** | 71317000 (Consultoría en protección y control de riesgos / prevención de riesgos laborales) |
+| **Puntuación relevancia** | **1/10** |
+| **Estado** | **NO-GO** |
 
-**Descripción:** Asistencia técnica especializada para el Centro de Análisis y Explotación (CAE) del CESTIC, Ministerio de Defensa. El CAE es el centro de análisis de sistemas de información y comunicaciones de las Fuerzas Armadas. Este contrato cubre soporte técnico a las capacidades de análisis, explotación y operación de sistemas TIC en entornos de Defensa.
+**Descripción:** ⚠️ **CORRECCIÓN IMPORTANTE:** CAE en este contexto es **Coordinación de Actividades Empresariales**, no un centro de análisis TI. Se trata de un servicio de **coordinación de prevención de riesgos laborales** en las instalaciones del CESTIC. El CPV 71317000 confirma que es consultoría de protección y control de riesgos (seguridad laboral / PRL), no servicios de tecnología.
 
-**Encaje con FutureSpace:** Moderado-bajo. El CAE del CESTIC tiene componentes de análisis de datos e inteligencia que podrían encajar con las capacidades analíticas de FutureSpace. Sin embargo, el entorno de Defensa requiere habilitaciones de seguridad y experiencia previa en Defensa que pueden ser barreras de entrada. Monitorizar para evaluar los pliegos completos.
+**Encaje con FutureSpace:** Nulo. No tiene ninguna relación con las capacidades de FutureSpace (IA, datos, ciberseguridad, desarrollo software). Este contrato requiere un consultor especializado en prevención de riesgos laborales (PRL), no una empresa TI.
 
 **Requisitos clave:**
-- Habilitación de seguridad nacional (probable nivel "Confidencial" o superior)
-- Experiencia previa en contratos de Defensa/FFAA
-- Conocimiento de sistemas CESTIC y arquitecturas TIC de Defensa
-- **Pendiente verificar pliegos completos para evaluar encaje real.**
+- ❌ Perfil de empresa de prevención de riesgos laborales (PRL)
+- ❌ Sin relación con servicios TI o digitales
+- **Acción recomendada: DESCARTAR inmediatamente.**
 
 ---
 
@@ -180,7 +179,7 @@ FutureSpace tiene interés prioritario en el **Lote 2 (Seguridad TIC)**, que inc
 | 1 | 00000026P035 | Ministerio Interior (SGGEP) | Transformación digital LARES/SIGESPI | 1.003.680,59 € | 21/09/2026 | **4** ⚠️ | 7/10 | **GO** |
 | 2 | J260047 | Ministerio Cultura | Oficina de Ciberseguridad | 343.952,41 € | 28/09/2026 | **11** | 8/10 | **GO** |
 | 3 | 2026/SP03032003/00000780 | Defensa (CESTIC) | Mantenimiento CPD | ~300–600K € | 20/09/2026 | **3** ⚠️ | 3/10 | **WATCH** |
-| 4 | 2026/SP03032003/00000773E | Defensa (CESTIC) | AT CAE CESTIC | Pendiente | 07/10/2026 | **20** | 4/10 | **WATCH** |
+| 4 | 2026/SP03032003/00000773E | Defensa (CESTIC) | AT CAE-PRL CESTIC ⚠️ prevención riesgos laborales | 428.656 € (36m) | 07/10/2026 | 20 | 1/10 | **NO-GO** |
 | 5 | 2026Rg800197 | Defensor del Pueblo | Comunicaciones y Seguridad (2 lotes) | Pendiente | 13/10/2026 | **26** | 7/10 | **GO** |
 
 ### Acciones Prioritarias
