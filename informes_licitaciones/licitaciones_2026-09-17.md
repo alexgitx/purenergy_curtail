@@ -147,13 +147,13 @@
 | **Nº Expediente** | 2026Rg800197 |
 | **Organismo contratante** | Defensor del Pueblo |
 | **Unidad compradora** | Defensor del Pueblo — Secretaría General |
-| **Presupuesto base** | Pendiente de verificación en PCSP (lote de seguridad TIC: estimación ~200.000–500.000 €) |
-| **Valor estimado** | Pendiente de verificación |
+| **Presupuesto base** | Pendiente de verificación (ref. contrato predecesor 2021: valor estimado 600.000–1.200.000 €) |
+| **Valor estimado** | Pendiente de verificación en PCSP |
 | **Plazo límite** | **13 de octubre de 2026** (10:00 h) |
 | **Días restantes** | **26 días** |
-| **Plataforma** | PCSP (contrataciondelestado.es) — BOE-B-2026-29964 |
-| **URL directa** | URL pendiente de verificación en PCSP — Ref. BOE-B-2026-29964. Buscar en: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XXXX (idEvl no disponible por restricción de acceso al portal) |
-| **Códigos CPV** | 72000000 (Servicios TI), 72400000 (Servicios de Internet), 79710000 (Servicios de seguridad) |
+| **Plataforma** | PCSP (contrataciondelestado.es) — BOE-B-2026-29964 (enviado DOUE el 9/09/2026) |
+| **URL directa** | URL pendiente de verificación en PCSP — Ref. BOE-B-2026-29964 / Expediente 2026Rg800197. Buscar en: https://contrataciondelestado.es (idEvl no verificable desde entorno automatizado) |
+| **Códigos CPV** | Lote 1: 64200000 (Telecomunicaciones), 50330000 (Mant. equipo telecom), 72590000 (Servicios IT profesionales). Lote 2: 79417000 (Consultoría seguridad), 72222300 (Servicios TI), 72511000 (Gestión de redes) |
 | **Puntuación relevancia** | **7/10** |
 | **Estado** | **GO** |
 
@@ -193,7 +193,23 @@ FutureSpace tiene interés prioritario en el **Lote 2 (Seguridad TIC)**, que inc
 
 ### Nota sobre URLs
 
-Todas las licitaciones de PCSP presentan "URL pendiente de verificación" debido a restricciones de acceso al portal contrataciondelestado.es desde el entorno de monitorización automatizada. Para obtener los deeplinks directos (`idEvl`), acceder manualmente al portal PCSP buscando por número de expediente o referencia BOE.
+Las licitaciones de PCSP sin idEvl presentan "URL pendiente de verificación" por restricciones de acceso al portal desde el entorno automatizado. La excepción es J260047 (Cultura), cuya URL PCSP está verificada. Para el resto, acceder manualmente al portal PCSP por número de expediente o referencia BOE.
+
+---
+
+## Oportunidades a Vigilar (portales regionales)
+
+Las siguientes oportunidades detectadas en portales autonómicos **no cumplen los criterios** para incluirse como licitaciones activas (plazo no confirmado, o no son contratos de servicios), pero merecen seguimiento:
+
+| Tipo | Organismo | Objeto | Acción |
+|---|---|---|---|
+| **SDA abierto** | NASERTIC (Navarra) | Sistema Dinámico de Compra para transformación digital, IA, cloud, ciberseguridad — admisión de proveedores abierta hasta **22/05/2030** | FutureSpace debería solicitar admisión en las categorías de IA, datos y ciberseguridad para acceder a mini-licitaciones futuras |
+| **Expediente por verificar** | Junta de Andalucía | CONTR 2026 0000095116 — objeto y plazo sin confirmar | Verificar en: https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc-front-publico/perfiles-licitaciones/detalle-licitacion?idExpediente=947992 |
+| **Expediente por verificar** | Junta de Andalucía | CONTR 2026 0000106592 — objeto y plazo sin confirmar | Verificar en: https://www.juntadeandalucia.es/haciendayadministracionpublica/apl/pdc-front-publico/perfiles-licitaciones/detalle-licitacion?idExpediente=938537 |
+| **Subvención** | SPRI / Gobierno Vasco | Ayudas IA Industrial — hasta 60%, máx. 100.000 €/empresa — plazo **2/11/2026** | No es contrato público; evaluar si es aplicable como empresa proveedora en Euskadi |
+| **Subvención** | SPRI / Gobierno Vasco | Ayudas Ciberseguridad Industrial — plazo **23/11/2026** | Ídem |
+
+**Recomendación estratégica:** Registrarse en el SDA de NASERTIC (Navarra) es de alta prioridad — proporciona acceso continuo a mini-licitaciones TIC del Gobierno de Navarra en IA, datos y ciberseguridad hasta 2030.
 
 ---
 
