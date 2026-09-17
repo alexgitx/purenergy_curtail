@@ -57,17 +57,17 @@
 | **Nº Expediente** | J260047 |
 | **Organismo contratante** | Ministerio de Cultura — Junta Central de Contratación |
 | **Unidad compradora** | Subsecretaría de Cultura — Oficina TIC / Seguridad |
-| **Presupuesto base** | Pendiente de verificación en PCSP |
-| **Valor estimado** | Pendiente de verificación |
+| **Presupuesto base** | **343.952,41 € sin IVA** (≈ 416.182,42 € con IVA al 21 %) |
+| **Valor estimado** | 343.952,41 € |
 | **Plazo límite** | **28 de septiembre de 2026** (19:00 h) |
 | **Días restantes** | **11 días** |
-| **Plataforma** | PCSP (contrataciondelestado.es) |
-| **URL directa** | URL pendiente de verificación en PCSP — Expediente J260047. Buscar en: https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=XXXX (idEvl no disponible por restricción de acceso al portal) |
+| **Plataforma** | PCSP (contrataciondelestado.es) — BOE-B-2026-28300 |
+| **URL directa** | https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=cPYakUJq4fY2wEhQbcAqug== |
 | **Códigos CPV** | 79710000 (Servicios de seguridad), 72000000 (Servicios TI) |
 | **Puntuación relevancia** | **8/10** |
 | **Estado** | **GO** |
 
-**Descripción:** Servicios de una Oficina de Ciberseguridad para el Ministerio de Cultura. Incluye servicios de seguridad gestionada (MSSP), monitorización de amenazas, gestión de vulnerabilidades, cumplimiento normativo (ENS) y soporte a la estrategia de ciberseguridad del ministerio. Posible estructura en lotes (SOC, consultoría ENS, respuesta a incidentes).
+**Descripción:** Servicio de oficina de ciberseguridad en el Ministerio de Cultura, en el ámbito de los sistemas de información gestionados por la División de Tecnologías de la Información. Incluye servicios de seguridad gestionada (MSSP), monitorización de amenazas, gestión de vulnerabilidades, cumplimiento normativo (ENS) y soporte a la estrategia de ciberseguridad del ministerio. Apertura sobre técnico: 7/10/2026 10:30h. Apertura sobre económico: 28/10/2026 10:30h.
 
 **Encaje con FutureSpace:** Muy bueno. Ciberseguridad gestionada, OSINT, inteligencia de amenazas, cumplimiento ENS Alto e ISO 27001 son capacidades core de FutureSpace. La certificación ENS Alto es especialmente relevante para este tipo de contratos en la AGE (Administración General del Estado). Posición competitiva fuerte.
 
@@ -178,7 +178,7 @@ FutureSpace tiene interés prioritario en el **Lote 2 (Seguridad TIC)**, que inc
 | # | Expediente | Organismo | Objeto | Presupuesto | Plazo | Días | Relevancia | Estado |
 |---|-----------|-----------|--------|-------------|-------|------|-----------|--------|
 | 1 | 00000026P035 | Ministerio Interior (SGGEP) | Transformación digital LARES/SIGESPI | 1.003.680,59 € | 21/09/2026 | **4** ⚠️ | 7/10 | **GO** |
-| 2 | J260047 | Ministerio Cultura | Oficina de Ciberseguridad | Pendiente | 28/09/2026 | **11** | 8/10 | **GO** |
+| 2 | J260047 | Ministerio Cultura | Oficina de Ciberseguridad | 343.952,41 € | 28/09/2026 | **11** | 8/10 | **GO** |
 | 3 | 2026/SP03032003/00000780 | Defensa (CESTIC) | Mantenimiento CPD | ~300–600K € | 20/09/2026 | **3** ⚠️ | 3/10 | **WATCH** |
 | 4 | 2026/SP03032003/00000773E | Defensa (CESTIC) | AT CAE CESTIC | Pendiente | 07/10/2026 | **20** | 4/10 | **WATCH** |
 | 5 | 2026Rg800197 | Defensor del Pueblo | Comunicaciones y Seguridad (2 lotes) | Pendiente | 13/10/2026 | **26** | 7/10 | **GO** |
